@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\StudentService\StudentService\bin\StudentService.dll.config
+C:\Users\ADMIN\source\repos\StudentService\StudentService\bin\StudentService.dll
+C:\Users\ADMIN\source\repos\StudentService\StudentService\bin\StudentService.pdb
+C:\Users\ADMIN\source\repos\StudentService\StudentService\bin\EntityFramework.dll
+C:\Users\ADMIN\source\repos\StudentService\StudentService\bin\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\StudentService\StudentService\bin\EntityFramework.xml
+C:\Users\ADMIN\source\repos\StudentService\StudentService\bin\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\StudentService\StudentService\obj\Debug\StudentService.Migrations.Student.resources
+C:\Users\ADMIN\source\repos\StudentService\StudentService\obj\Debug\StudentService.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\StudentService\StudentService\obj\Debug\StudentService.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\StudentService\StudentService\obj\Debug\StudentService.dll
+C:\Users\ADMIN\source\repos\StudentService\StudentService\obj\Debug\StudentService.pdb
